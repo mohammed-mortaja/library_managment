@@ -9,8 +9,8 @@ from library_management import __version__ as version
 setup(
 	name="library_management",
 	version=version,
-	description="NOTHING",
-	author="ss",
+	description="first app",
+	author="mohammed mortaja",
 	author_email="mrtjy611@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,

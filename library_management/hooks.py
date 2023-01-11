@@ -1,13 +1,13 @@
 from . import __version__ as app_version
 
 app_name = "library_management"
-app_title = "firstApp"
-app_publisher = "ss"
-app_description = "NOTHING"
-app_icon = "no"
-app_color = "y"
+app_title = "fapp"
+app_publisher = "mohammed mortaja"
+app_description = "first app"
+app_icon = "octicon octicon-file-directory"
+app_color = "grey"
 app_email = "mrtjy611@gmail.com"
-app_license = "y"
+app_license = "MIT"
 
 # Includes in <head>
 # ------------------

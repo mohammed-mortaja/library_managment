@@ -1,7 +1,7 @@
-## firstApp
+## fapp
 
-NOTHING
+first app
 
 #### License
 
-y
+MIT
