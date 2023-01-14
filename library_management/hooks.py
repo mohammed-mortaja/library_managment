@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
 app_name = "library_management"
-app_title = "fapp"
+app_title = "Library Management"
 app_publisher = "mohammed mortaja"
-app_description = "first app"
+app_description = "Library Management System"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "mrtjy611@gmail.com"

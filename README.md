@@ -1,6 +1,6 @@
-## fapp
+## Library Management
 
-first app
+Library Management System
 
 #### License
 
